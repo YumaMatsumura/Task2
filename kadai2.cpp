@@ -55,7 +55,7 @@ int main(void) {
 	std::cout << is_triangle(x[0], y[0], x[1], y[1], x[2], y[2]) << std::endl;
 
 
-	////下テストコード////
+	////テストコード////
 	std::cout << "以下、テスト結果" << std::endl;
 
 	//2点が一致している
